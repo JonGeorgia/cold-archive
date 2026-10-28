@@ -1,0 +1,21 @@
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Логи
+*.log
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Тестовые данные (если не хотите их публиковать)
+tests_data/
+style/
+TMP/

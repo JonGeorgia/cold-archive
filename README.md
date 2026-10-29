@@ -1,3 +1,5 @@
+[![Latest Release](https://img.shields.io/github/v/release/JonGeorgia/cold-archive?style=flat-square&color=b86700)](https://github.com/JonGeorgia/cold-archive/releases/latest)
+
 [English](README.md) | [Русский](README.ru.md)
 
 <div class="title-page">
